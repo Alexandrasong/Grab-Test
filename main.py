@@ -1,8 +1,7 @@
 import json
+import unittest
 
 import requests
-import unittest
-from urllib import parse
 
 
 class Question1(unittest.TestCase):
